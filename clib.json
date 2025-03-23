@@ -1,0 +1,9 @@
+{
+  "name": "status_type",
+  "version": "0.1.0",
+  "repo": "c-sdk/status_type",
+  "description": "Instead of using bool, use status.",
+  "keywords": ["status", "boolean", "bool"],
+  "license": "unlicense",
+  "src": ["./status.h"]
+}
